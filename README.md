@@ -1,4 +1,4 @@
-### Hello there, I'm RookieOHY~ 👋
+### Hello Bro, I'm RookieOHY~ 👋
 - I love open source. ❤️ 
 ---
 
