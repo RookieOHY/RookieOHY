@@ -5,6 +5,5 @@
 
 - ⛏ 擅长 Java/Golang，目前正在努力学习 Rust/Dart!
 
-- 🌸 个人 discussion 网站 <https://rookieohy.icu/>
 
 
