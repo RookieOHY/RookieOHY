@@ -4,3 +4,4 @@
 - 博客📝 [discussion blog](https://rookieohy.icu)
 - 周记📆 [weekly](https://weekly.subhee.top)
 - 魔术🧨[刘谦魔术](https://magic.subhee.top)
+- 中国传统颜色🧧[color](https://color.subhee.top)
